@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence (NLP)**
 
+- 🌱 I’m currently learning **AI & Chatbot Development**
+
 - 💬 Ask me about **JavaScript,React,MongoDB**
 
 - 📫 How to reach me **arhamkhancs99@gmail.com**
